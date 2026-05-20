@@ -1,3 +1,11 @@
+<h1 align="center">Hi there, I'm Krishna Sharma! 👋</h1>
+
+<hr>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;React.js+Developer;Python+Learner;Open+Source+Enthusiast" />
+</h2>
+
 # 💫 About Me:
 🌱 I’m currently learning Python, NumPy, Pandas, and modern frontend development.<br>💻 I’m currently working on responsive web applications and frontend projects.<br>🤝 I’m looking to collaborate on Frontend Development and React.js projects.<br>📚 I’m looking for help with advanced React.js concepts and backend integration.<br>💬 Ask me about HTML, CSS, JavaScript, React.js, Tailwind CSS, and Python basics.<br>⚡ Fun fact: I love building creative web projects and exploring new technologies.
 
